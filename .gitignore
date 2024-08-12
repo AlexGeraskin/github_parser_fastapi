@@ -1,0 +1,4 @@
+__pycache__/
+GithubVenv/
+.DS_Store
+not_to_commit/
